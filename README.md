@@ -12,7 +12,8 @@ Aplica los conceptos de la teoría de la probabilidad y estadística para organi
 6. Estadística aplicada.
 
 ## Lecturas
-+ Videos
++ Videos:
+
   [Regresión lineal](https://www.youtube.com/watch?v=_nrRWaUaJ-o).
 
 + [Notas](https://github.com/angelarmenta/matematicas_discretas/tree/main/notas)
