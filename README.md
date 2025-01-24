@@ -12,19 +12,10 @@ Aplica los conceptos de la teoría de la probabilidad y estadística para organi
 6. Estadística aplicada.
 
 ## Lecturas
-+ Videos:
++ [Estadística descriptiva](https://github.com/angelarmenta/matematicas_discretas/tree/main/notas)
 
-  [Regresión lineal](https://www.youtube.com/watch?v=_nrRWaUaJ-o).
-
-+ [Notas](https://github.com/angelarmenta/matematicas_discretas/tree/main/notas)
-
-## Notebook
-Unidad 1:
-+ [Conversiones entre sistemas numéricos](https://github.com/angelarmenta/matematicas_discretas/blob/main/notebook/U1/conversiones_sn.py).
-+ [Operaciones básicas en los diferentes sistemas numéricos](https://github.com/angelarmenta/matematicas_discretas/blob/main/notebook/U1/operaciones_sn.py).
-
-Unidad 2:
-+ [Operaciones básicas entre conjuntos](https://github.com/angelarmenta/matematicas_discretas/blob/main/notebook/U2/operaciones_cj.py).
+## Videos
++ [Regresión lineal](https://www.youtube.com/watch?v=_nrRWaUaJ-o).
 
 ## Announcements
 
